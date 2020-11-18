@@ -1,0 +1,873 @@
+year,geo,structure_type,building_permits_sum,population,percentage_of_seniors,percentage_of_students,GDP_millions
+2011,Alberta,Multiple dwelling building total,26963,15125386,10.7,24.9,289920.6
+2011,British Columbia,Multiple dwelling building total,34761,17988323,15.3,21.5,202033.2
+2011,Manitoba,Multiple dwelling building total,5235,4928388,14.4,22.9,52461.7
+2011,New Brunswick,Multiple dwelling building total,3269,3021248,13.9,26,28908.5
+2011,Newfoundland and Labrador,Multiple dwelling building total,2442,2098906,16.2,21,31614
+2011,Nova Scotia,Multiple dwelling building total,5393,3777808,5.6,29.3,34263
+2011,Ontario,Multiple dwelling building total,73772,53000204,3.2,41.3,616138.5
+2011,Prince Edward Island,Multiple dwelling building total,990,575019,15.9,22.9,4941.8
+2011,Quebec,Multiple dwelling building total,73618,31987204,15.7,21.6,321047.4
+2011,Saskatchewan,Multiple dwelling building total,5977,4258712,14.4,25.7,71287.5
+2012,Alberta,Multiple dwelling building total,33239,15493623,11,24.6,29977.1
+2012,British Columbia,Multiple dwelling building total,38843,18153901,15.8,21.2,5090.7
+2012,Manitoba,Multiple dwelling building total,6800,4993394,14.9,22.6,34477.9
+2012,New Brunswick,Multiple dwelling building total,3833,3026285,14.2,25.9,29117.4
+2012,Newfoundland and Labrador,Multiple dwelling building total,2426,2106686,16.9,20.8,328855.5
+2012,Nova Scotia,Multiple dwelling building total,5398,3779085,5.8,29,55676.3
+2012,Ontario,Multiple dwelling building total,84547,53573998,3.4,40.8,302132
+2012,Prince Edward Island,Multiple dwelling building total,1046,580209,16.6,22.5,206590.6
+2012,Quebec,Multiple dwelling building total,70499,32292728,16.2,21.3,2457.6
+2012,Saskatchewan,Multiple dwelling building total,8426,4337629,14.5,25.6,4249.9
+2013,Alberta,Multiple dwelling building total,43041,15956059,11.2,24.4,32403.8
+2013,British Columbia,Multiple dwelling building total,42170,18315636,16.4,20.9,5257
+2013,Manitoba,Multiple dwelling building total,7574,5054388,15.3,22.3,35123.6
+2013,New Brunswick,Multiple dwelling building total,3188,3022449,14.5,25.7,29166
+2013,Newfoundland and Labrador,Multiple dwelling building total,2236,2113614,17.6,20.5,338213.8
+2013,Nova Scotia,Multiple dwelling building total,4201,3773266,6.2,28.6,57869
+2013,Ontario,Multiple dwelling building total,91383,54131765,3.5,40.4,331477.2
+2013,Prince Edward Island,Multiple dwelling building total,500,581505,17.3,22.3,214088.8
+2013,Quebec,Multiple dwelling building total,59733,32572972,16.6,21.1,2556.2
+2013,Saskatchewan,Multiple dwelling building total,9512,4414926,14.5,25.4,4353.1
+2014,Alberta,Multiple dwelling building total,46444,16414014,11.4,24.2,32136.7
+2014,British Columbia,Multiple dwelling building total,42063,18510595,16.9,20.7,5332
+2014,Manitoba,Multiple dwelling building total,8291,5118069,15.7,22.1,36258.3
+2014,New Brunswick,Multiple dwelling building total,2752,3017719,14.7,25.5,29650
+2014,Newfoundland and Labrador,Multiple dwelling building total,1948,2109387,18.3,20.2,348098.5
+2014,Nova Scotia,Multiple dwelling building total,4498,3771853,6.5,28.1,59499.7
+2014,Ontario,Multiple dwelling building total,85846,54664502,3.6,40,365191.1
+2014,Prince Edward Island,Multiple dwelling building total,548,584078,17.9,22.1,225863.3
+2014,Quebec,Multiple dwelling building total,60816,32820596,17.1,20.9,2650.3
+2014,Saskatchewan,Multiple dwelling building total,8715,4490682,14.6,25.3,4656.5
+2015,Alberta,Multiple dwelling building total,51286,8335453,11.7,24.1,28924.4
+2015,British Columbia,Multiple dwelling building total,57762,9326164,17.4,20.5,5551.8
+2015,Manitoba,Multiple dwelling building total,6257,2581943,16.1,21.9,37028.1
+2015,New Brunswick,Multiple dwelling building total,1428,1507579,14.9,25.4,30602.6
+2015,Newfoundland and Labrador,Multiple dwelling building total,994,1052085,19,20.1,357758.8
+2015,Nova Scotia,Multiple dwelling building total,5395,1886501,6.8,27.8,60958.6
+2015,Ontario,Multiple dwelling building total,88258,27483617,3.7,39.7,311906
+2015,Prince Edward Island,Multiple dwelling building total,522,292748,18.5,21.9,231725.3
+2015,Quebec,Multiple dwelling building total,56783,16485380,17.6,20.8,2541.7
+2015,Saskatchewan,Multiple dwelling building total,6519,2267042,14.7,25.3,4597.5
+2016,Alberta,Multiple dwelling building total,34860,4067175,12,24.1,29005.2
+2016,British Columbia,Multiple dwelling building total,55230,4648055,17.9,20.3,5803.4
+2016,Manitoba,Multiple dwelling building total,6099,1278365,16.5,21.7,37795.5
+2016,New Brunswick,Multiple dwelling building total,2059,747101,15.1,25.2,31222.1
+2016,Newfoundland and Labrador,Multiple dwelling building total,1404,519716,19.5,20,368634.6
+2016,Northwest Territories,Multiple dwelling building total,234,41786,19.1,19.4,733760.7
+2016,Nova Scotia,Multiple dwelling building total,4716,923598,7.2,27.3,62289.7
+2016,Nunavut,Multiple dwelling building total,86,35944,19.3,19.5,71463.8
+2016,Ontario,Multiple dwelling building total,96579,13448494,3.9,39.4,292561.7
+2016,Prince Edward Island,Multiple dwelling building total,536,142907,18.8,21.8,243317.1
+2016,Quebec,Multiple dwelling building total,66231,8164361,18.1,20.6,2691.4
+2016,Saskatchewan,Multiple dwelling building total,4494,1098352,14.8,25.3,4303.7
+2016,Yukon,Multiple dwelling building total,400,35874,11.7,22.2,2536.3
+2017,Alberta,Multiple dwelling building total,29551,4286134,12.4,24.2,329900
+2017,British Columbia,Multiple dwelling building total,69781,4817160,18.3,20.1,239900
+2017,Manitoba,Multiple dwelling building total,8637,1338109,16.9,21.6,61900
+2017,New Brunswick,Multiple dwelling building total,2360,759655,15.2,25.2,30200
+2017,Newfoundland and Labrador,Multiple dwelling building total,1296,528817,20.1,19.9,31400
+2017,Nova Scotia,Multiple dwelling building total,5394,953869,7.3,27.1,36100
+2017,Ontario,Multiple dwelling building total,97539,14193384,4,38.9,713300
+2017,Prince Edward Island,Multiple dwelling building total,750,152021,19,21.7,5600
+2017,Quebec,Multiple dwelling building total,78053,8394034,18.5,20.6,357300
+2017,Saskatchewan,Multiple dwelling building total,6179,1163925,15,25.3,80800
+2018,Alberta,Agriculture,22,4317453,12.7,15.61,336300
+2018,Alberta,Apartment,5426,4317453,12.7,15.61,336300
+2018,Alberta,Apartment condominium,577,4317453,12.7,15.61,336300
+2018,Alberta,Apartment total,6003,4317453,12.7,15.61,336300
+2018,Alberta,"Churches, religion",18,4317453,12.7,15.61,336300
+2018,Alberta,"Clinic - health unit, out-patient clinic, first aid station",18,4317453,12.7,15.61,336300
+2018,Alberta,Communication building,2,4317453,12.7,15.61,336300
+2018,Alberta,"Convention center, exhibition building",1,4317453,12.7,15.61,336300
+2018,Alberta,Double total,2950,4317453,12.7,15.61,336300
+2018,Alberta,"Elementary school, kindergarten",20,4317453,12.7,15.61,336300
+2018,Alberta,"Factories, plants",74,4317453,12.7,15.61,336300
+2018,Alberta,Government buildings,16,4317453,12.7,15.61,336300
+2018,Alberta,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",6,4317453,12.7,15.61,336300
+2018,Alberta,"Hospital general - military, specialized",23,4317453,12.7,15.61,336300
+2018,Alberta,"Hotel, hotel and motel, motor hotel",18,4317453,12.7,15.61,336300
+2018,Alberta,"Hotels, restaurants",134,4317453,12.7,15.61,336300
+2018,Alberta,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",47,4317453,12.7,15.61,336300
+2018,Alberta,Laboratories,8,4317453,12.7,15.61,336300
+2018,Alberta,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",7,4317453,12.7,15.61,336300
+2018,Alberta,Maintenance building,32,4317453,12.7,15.61,336300
+2018,Alberta,Major multiple dwelling projects,11448,4317453,12.7,15.61,336300
+2018,Alberta,"Medical, hospital",41,4317453,12.7,15.61,336300
+2018,Alberta,Mining and agriculture,23,4317453,12.7,15.61,336300
+2018,Alberta,Mining building,1,4317453,12.7,15.61,336300
+2018,Alberta,Minor multiple dwelling projects,960,4317453,12.7,15.61,336300
+2018,Alberta,"Motel, cabin for tourism",1,4317453,12.7,15.61,336300
+2018,Alberta,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",15,4317453,12.7,15.61,336300
+2018,Alberta,Multiple dwelling building total,21301,4317453,12.7,15.61,336300
+2018,Alberta,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",290,4317453,12.7,15.61,336300
+2018,Alberta,Office buildings,299,4317453,12.7,15.61,336300
+2018,Alberta,"Office complex, office and store, office and apartment",9,4317453,12.7,15.61,336300
+2018,Alberta,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",25,4317453,12.7,15.61,336300
+2018,Alberta,"Other government building - police station, prison, fire station, military building",10,4317453,12.7,15.61,336300
+2018,Alberta,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",18,4317453,12.7,15.61,336300
+2018,Alberta,"Plant for manufacturing, processing and assembling goods",42,4317453,12.7,15.61,336300
+2018,Alberta,"Post-secondary institution - technical institute, trade school",13,4317453,12.7,15.61,336300
+2018,Alberta,Recreation,71,4317453,12.7,15.61,336300
+2018,Alberta,"Restaurant, bar, tavern, night club, diner, donut shop",89,4317453,12.7,15.61,336300
+2018,Alberta,Retail and wholesale outlets,171,4317453,12.7,15.61,336300
+2018,Alberta,"Retail complex - plaza, mall, shopping center, store and office building",63,4317453,12.7,15.61,336300
+2018,Alberta,Row condominium,376,4317453,12.7,15.61,336300
+2018,Alberta,"Schools, education",86,4317453,12.7,15.61,336300
+2018,Alberta,"Secondary school, high school, junior high school",31,4317453,12.7,15.61,336300
+2018,Alberta,Service stations,45,4317453,12.7,15.61,336300
+2018,Alberta,"Special building use - funeral director, crematorium, mausoleum",4,4317453,12.7,15.61,336300
+2018,Alberta,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",6,4317453,12.7,15.61,336300
+2018,Alberta,Total demolitions,766,4317453,12.7,15.61,336300
+2018,Alberta,Total major institutional and governmental projects,191,4317453,12.7,15.61,336300
+2018,Alberta,Total major non-residential projects,1308,4317453,12.7,15.61,336300
+2018,Alberta,Total major permits residential and non-residential,26860,4317453,12.7,15.61,336300
+2018,Alberta,Total major residential project,25552,4317453,12.7,15.61,336300
+2018,Alberta,Total minor commercial projects,2282,4317453,12.7,15.61,336300
+2018,Alberta,Total minor industrial projects,679,4317453,12.7,15.61,336300
+2018,Alberta,Total minor institutional and governmental projects,315,4317453,12.7,15.61,336300
+2018,Alberta,Total minor non-residential projects,3276,4317453,12.7,15.61,336300
+2018,Alberta,Total minor residential and non-residential,14206,4317453,12.7,15.61,336300
+2018,Alberta,Total minor residential project,10930,4317453,12.7,15.61,336300
+2018,Alberta,Trade and services,253,4317453,12.7,15.61,336300
+2018,Alberta,Transportation terminal,10,4317453,12.7,15.61,336300
+2018,Alberta,"Transportation, utilities",78,4317453,12.7,15.61,336300
+2018,Alberta,University,15,4317453,12.7,15.61,336300
+2018,Alberta,Utility building,66,4317453,12.7,15.61,336300
+2018,Alberta,Warehouses,132,4317453,12.7,15.61,336300
+2018,Alberta,"Welfare, home",30,4317453,12.7,15.61,336300
+2018,British Columbia,Agriculture,74,5039661,17.86,11.14,246300
+2018,British Columbia,Apartment,11886,5039661,17.86,11.14,246300
+2018,British Columbia,Apartment condominium,6872,5039661,17.86,11.14,246300
+2018,British Columbia,Apartment total,18758,5039661,17.86,11.14,246300
+2018,British Columbia,"Churches, religion",13,5039661,17.86,11.14,246300
+2018,British Columbia,"Clinic - health unit, out-patient clinic, first aid station",5,5039661,17.86,11.14,246300
+2018,British Columbia,Communication building,3,5039661,17.86,11.14,246300
+2018,British Columbia,"Convention center, exhibition building",3,5039661,17.86,11.14,246300
+2018,British Columbia,Double total,409,5039661,17.86,11.14,246300
+2018,British Columbia,"Elementary school, kindergarten",21,5039661,17.86,11.14,246300
+2018,British Columbia,"Factories, plants",71,5039661,17.86,11.14,246300
+2018,British Columbia,Government buildings,23,5039661,17.86,11.14,246300
+2018,British Columbia,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",12,5039661,17.86,11.14,246300
+2018,British Columbia,"Hospital general - military, specialized",13,5039661,17.86,11.14,246300
+2018,British Columbia,"Hotel, hotel and motel, motor hotel",25,5039661,17.86,11.14,246300
+2018,British Columbia,"Hotels, restaurants",156,5039661,17.86,11.14,246300
+2018,British Columbia,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",25,5039661,17.86,11.14,246300
+2018,British Columbia,Laboratories,2,5039661,17.86,11.14,246300
+2018,British Columbia,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",3,5039661,17.86,11.14,246300
+2018,British Columbia,Maintenance building,14,5039661,17.86,11.14,246300
+2018,British Columbia,Major multiple dwelling projects,22682,5039661,17.86,11.14,246300
+2018,British Columbia,"Medical, hospital",18,5039661,17.86,11.14,246300
+2018,British Columbia,Mining and agriculture,76,5039661,17.86,11.14,246300
+2018,British Columbia,Mining building,2,5039661,17.86,11.14,246300
+2018,British Columbia,Minor multiple dwelling projects,734,5039661,17.86,11.14,246300
+2018,British Columbia,"Motel, cabin for tourism",10,5039661,17.86,11.14,246300
+2018,British Columbia,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",8,5039661,17.86,11.14,246300
+2018,British Columbia,Multiple dwelling building total,43065,5039661,17.86,11.14,246300
+2018,British Columbia,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",245,5039661,17.86,11.14,246300
+2018,British Columbia,Office buildings,247,5039661,17.86,11.14,246300
+2018,British Columbia,"Office complex, office and store, office and apartment",2,5039661,17.86,11.14,246300
+2018,British Columbia,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",25,5039661,17.86,11.14,246300
+2018,British Columbia,"Other government building - police station, prison, fire station, military building",10,5039661,17.86,11.14,246300
+2018,British Columbia,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",26,5039661,17.86,11.14,246300
+2018,British Columbia,"Plant for manufacturing, processing and assembling goods",57,5039661,17.86,11.14,246300
+2018,British Columbia,"Post-secondary institution - technical institute, trade school",16,5039661,17.86,11.14,246300
+2018,British Columbia,Recreation,55,5039661,17.86,11.14,246300
+2018,British Columbia,"Restaurant, bar, tavern, night club, diner, donut shop",93,5039661,17.86,11.14,246300
+2018,British Columbia,Retail and wholesale outlets,106,5039661,17.86,11.14,246300
+2018,British Columbia,"Retail complex - plaza, mall, shopping center, store and office building",56,5039661,17.86,11.14,246300
+2018,British Columbia,Row condominium,1496,5039661,17.86,11.14,246300
+2018,British Columbia,"Schools, education",67,5039661,17.86,11.14,246300
+2018,British Columbia,"Secondary school, high school, junior high school",10,5039661,17.86,11.14,246300
+2018,British Columbia,Service stations,20,5039661,17.86,11.14,246300
+2018,British Columbia,"Special building use - funeral director, crematorium, mausoleum",1,5039661,17.86,11.14,246300
+2018,British Columbia,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",4,5039661,17.86,11.14,246300
+2018,British Columbia,Total demolitions,2417,5039661,17.86,11.14,246300
+2018,British Columbia,Total major institutional and governmental projects,148,5039661,17.86,11.14,246300
+2018,British Columbia,Total major non-residential projects,1090,5039661,17.86,11.14,246300
+2018,British Columbia,Total major permits residential and non-residential,34165,5039661,17.86,11.14,246300
+2018,British Columbia,Total major residential project,33075,5039661,17.86,11.14,246300
+2018,British Columbia,Total minor commercial projects,2807,5039661,17.86,11.14,246300
+2018,British Columbia,Total minor industrial projects,845,5039661,17.86,11.14,246300
+2018,British Columbia,Total minor institutional and governmental projects,290,5039661,17.86,11.14,246300
+2018,British Columbia,Total minor non-residential projects,3942,5039661,17.86,11.14,246300
+2018,British Columbia,Total minor residential and non-residential,9756,5039661,17.86,11.14,246300
+2018,British Columbia,Total minor residential project,5814,5039661,17.86,11.14,246300
+2018,British Columbia,Trade and services,171,5039661,17.86,11.14,246300
+2018,British Columbia,Transportation terminal,9,5039661,17.86,11.14,246300
+2018,British Columbia,"Transportation, utilities",31,5039661,17.86,11.14,246300
+2018,British Columbia,University,17,5039661,17.86,11.14,246300
+2018,British Columbia,Utility building,19,5039661,17.86,11.14,246300
+2018,British Columbia,Warehouses,113,5039661,17.86,11.14,246300
+2018,British Columbia,"Welfare, home",27,5039661,17.86,11.14,246300
+2018,Manitoba,Agriculture,28,1357879,15.22,13.74,62900
+2018,Manitoba,Apartment,1632,1357879,15.22,13.74,62900
+2018,Manitoba,Apartment condominium,246,1357879,15.22,13.74,62900
+2018,Manitoba,Apartment total,1878,1357879,15.22,13.74,62900
+2018,Manitoba,"Churches, religion",6,1357879,15.22,13.74,62900
+2018,Manitoba,"Clinic - health unit, out-patient clinic, first aid station",2,1357879,15.22,13.74,62900
+2018,Manitoba,Communication building,0,1357879,15.22,13.74,62900
+2018,Manitoba,"Convention center, exhibition building",0,1357879,15.22,13.74,62900
+2018,Manitoba,Double total,236,1357879,15.22,13.74,62900
+2018,Manitoba,"Elementary school, kindergarten",13,1357879,15.22,13.74,62900
+2018,Manitoba,"Factories, plants",24,1357879,15.22,13.74,62900
+2018,Manitoba,Government buildings,6,1357879,15.22,13.74,62900
+2018,Manitoba,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",0,1357879,15.22,13.74,62900
+2018,Manitoba,"Hospital general - military, specialized",5,1357879,15.22,13.74,62900
+2018,Manitoba,"Hotel, hotel and motel, motor hotel",6,1357879,15.22,13.74,62900
+2018,Manitoba,"Hotels, restaurants",22,1357879,15.22,13.74,62900
+2018,Manitoba,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",12,1357879,15.22,13.74,62900
+2018,Manitoba,Laboratories,5,1357879,15.22,13.74,62900
+2018,Manitoba,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",5,1357879,15.22,13.74,62900
+2018,Manitoba,Maintenance building,7,1357879,15.22,13.74,62900
+2018,Manitoba,Major multiple dwelling projects,2409,1357879,15.22,13.74,62900
+2018,Manitoba,"Medical, hospital",7,1357879,15.22,13.74,62900
+2018,Manitoba,Mining and agriculture,28,1357879,15.22,13.74,62900
+2018,Manitoba,Mining building,0,1357879,15.22,13.74,62900
+2018,Manitoba,Minor multiple dwelling projects,227,1357879,15.22,13.74,62900
+2018,Manitoba,"Motel, cabin for tourism",0,1357879,15.22,13.74,62900
+2018,Manitoba,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",6,1357879,15.22,13.74,62900
+2018,Manitoba,Multiple dwelling building total,4578,1357879,15.22,13.74,62900
+2018,Manitoba,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",72,1357879,15.22,13.74,62900
+2018,Manitoba,Office buildings,73,1357879,15.22,13.74,62900
+2018,Manitoba,"Office complex, office and store, office and apartment",1,1357879,15.22,13.74,62900
+2018,Manitoba,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",1,1357879,15.22,13.74,62900
+2018,Manitoba,"Other government building - police station, prison, fire station, military building",6,1357879,15.22,13.74,62900
+2018,Manitoba,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",0,1357879,15.22,13.74,62900
+2018,Manitoba,"Plant for manufacturing, processing and assembling goods",17,1357879,15.22,13.74,62900
+2018,Manitoba,"Post-secondary institution - technical institute, trade school",1,1357879,15.22,13.74,62900
+2018,Manitoba,Recreation,12,1357879,15.22,13.74,62900
+2018,Manitoba,"Restaurant, bar, tavern, night club, diner, donut shop",15,1357879,15.22,13.74,62900
+2018,Manitoba,Retail and wholesale outlets,51,1357879,15.22,13.74,62900
+2018,Manitoba,"Retail complex - plaza, mall, shopping center, store and office building",14,1357879,15.22,13.74,62900
+2018,Manitoba,Row condominium,8,1357879,15.22,13.74,62900
+2018,Manitoba,"Schools, education",39,1357879,15.22,13.74,62900
+2018,Manitoba,"Secondary school, high school, junior high school",3,1357879,15.22,13.74,62900
+2018,Manitoba,Service stations,14,1357879,15.22,13.74,62900
+2018,Manitoba,"Special building use - funeral director, crematorium, mausoleum",2,1357879,15.22,13.74,62900
+2018,Manitoba,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",0,1357879,15.22,13.74,62900
+2018,Manitoba,Total demolitions,201,1357879,15.22,13.74,62900
+2018,Manitoba,Total major institutional and governmental projects,65,1357879,15.22,13.74,62900
+2018,Manitoba,Total major non-residential projects,371,1357879,15.22,13.74,62900
+2018,Manitoba,Total major permits residential and non-residential,6080,1357879,15.22,13.74,62900
+2018,Manitoba,Total major residential project,5709,1357879,15.22,13.74,62900
+2018,Manitoba,Total minor commercial projects,498,1357879,15.22,13.74,62900
+2018,Manitoba,Total minor industrial projects,206,1357879,15.22,13.74,62900
+2018,Manitoba,Total minor institutional and governmental projects,88,1357879,15.22,13.74,62900
+2018,Manitoba,Total minor non-residential projects,792,1357879,15.22,13.74,62900
+2018,Manitoba,Total minor residential and non-residential,3550,1357879,15.22,13.74,62900
+2018,Manitoba,Total minor residential project,2758,1357879,15.22,13.74,62900
+2018,Manitoba,Trade and services,73,1357879,15.22,13.74,62900
+2018,Manitoba,Transportation terminal,3,1357879,15.22,13.74,62900
+2018,Manitoba,"Transportation, utilities",17,1357879,15.22,13.74,62900
+2018,Manitoba,University,17,1357879,15.22,13.74,62900
+2018,Manitoba,Utility building,14,1357879,15.22,13.74,62900
+2018,Manitoba,Warehouses,38,1357879,15.22,13.74,62900
+2018,Manitoba,"Welfare, home",7,1357879,15.22,13.74,62900
+2018,New Brunswick,Agriculture,14,772524,20.48,12.67,30400
+2018,New Brunswick,Apartment,485,772524,20.48,12.67,30400
+2018,New Brunswick,Apartment condominium,20,772524,20.48,12.67,30400
+2018,New Brunswick,Apartment total,505,772524,20.48,12.67,30400
+2018,New Brunswick,"Churches, religion",2,772524,20.48,12.67,30400
+2018,New Brunswick,"Clinic - health unit, out-patient clinic, first aid station",0,772524,20.48,12.67,30400
+2018,New Brunswick,Communication building,0,772524,20.48,12.67,30400
+2018,New Brunswick,"Convention center, exhibition building",0,772524,20.48,12.67,30400
+2018,New Brunswick,Double total,126,772524,20.48,12.67,30400
+2018,New Brunswick,"Elementary school, kindergarten",2,772524,20.48,12.67,30400
+2018,New Brunswick,"Factories, plants",11,772524,20.48,12.67,30400
+2018,New Brunswick,Government buildings,4,772524,20.48,12.67,30400
+2018,New Brunswick,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",2,772524,20.48,12.67,30400
+2018,New Brunswick,"Hospital general - military, specialized",5,772524,20.48,12.67,30400
+2018,New Brunswick,"Hotel, hotel and motel, motor hotel",2,772524,20.48,12.67,30400
+2018,New Brunswick,"Hotels, restaurants",11,772524,20.48,12.67,30400
+2018,New Brunswick,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",7,772524,20.48,12.67,30400
+2018,New Brunswick,Laboratories,1,772524,20.48,12.67,30400
+2018,New Brunswick,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",1,772524,20.48,12.67,30400
+2018,New Brunswick,Maintenance building,0,772524,20.48,12.67,30400
+2018,New Brunswick,Major multiple dwelling projects,734,772524,20.48,12.67,30400
+2018,New Brunswick,"Medical, hospital",5,772524,20.48,12.67,30400
+2018,New Brunswick,Mining and agriculture,15,772524,20.48,12.67,30400
+2018,New Brunswick,Mining building,1,772524,20.48,12.67,30400
+2018,New Brunswick,Minor multiple dwelling projects,166,772524,20.48,12.67,30400
+2018,New Brunswick,"Motel, cabin for tourism",1,772524,20.48,12.67,30400
+2018,New Brunswick,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",5,772524,20.48,12.67,30400
+2018,New Brunswick,Multiple dwelling building total,1527,772524,20.48,12.67,30400
+2018,New Brunswick,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",20,772524,20.48,12.67,30400
+2018,New Brunswick,Office buildings,20,772524,20.48,12.67,30400
+2018,New Brunswick,"Office complex, office and store, office and apartment",0,772524,20.48,12.67,30400
+2018,New Brunswick,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",0,772524,20.48,12.67,30400
+2018,New Brunswick,"Other government building - police station, prison, fire station, military building",2,772524,20.48,12.67,30400
+2018,New Brunswick,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",0,772524,20.48,12.67,30400
+2018,New Brunswick,"Plant for manufacturing, processing and assembling goods",11,772524,20.48,12.67,30400
+2018,New Brunswick,"Post-secondary institution - technical institute, trade school",0,772524,20.48,12.67,30400
+2018,New Brunswick,Recreation,7,772524,20.48,12.67,30400
+2018,New Brunswick,"Restaurant, bar, tavern, night club, diner, donut shop",8,772524,20.48,12.67,30400
+2018,New Brunswick,Retail and wholesale outlets,36,772524,20.48,12.67,30400
+2018,New Brunswick,"Retail complex - plaza, mall, shopping center, store and office building",15,772524,20.48,12.67,30400
+2018,New Brunswick,Row condominium,2,772524,20.48,12.67,30400
+2018,New Brunswick,"Schools, education",16,772524,20.48,12.67,30400
+2018,New Brunswick,"Secondary school, high school, junior high school",8,772524,20.48,12.67,30400
+2018,New Brunswick,Service stations,8,772524,20.48,12.67,30400
+2018,New Brunswick,"Special building use - funeral director, crematorium, mausoleum",0,772524,20.48,12.67,30400
+2018,New Brunswick,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",0,772524,20.48,12.67,30400
+2018,New Brunswick,Total demolitions,140,772524,20.48,12.67,30400
+2018,New Brunswick,Total major institutional and governmental projects,29,772524,20.48,12.67,30400
+2018,New Brunswick,Total major non-residential projects,176,772524,20.48,12.67,30400
+2018,New Brunswick,Total major permits residential and non-residential,2216,772524,20.48,12.67,30400
+2018,New Brunswick,Total major residential project,2040,772524,20.48,12.67,30400
+2018,New Brunswick,Total minor commercial projects,480,772524,20.48,12.67,30400
+2018,New Brunswick,Total minor industrial projects,98,772524,20.48,12.67,30400
+2018,New Brunswick,Total minor institutional and governmental projects,77,772524,20.48,12.67,30400
+2018,New Brunswick,Total minor non-residential projects,655,772524,20.48,12.67,30400
+2018,New Brunswick,Total minor residential and non-residential,3594,772524,20.48,12.67,30400
+2018,New Brunswick,Total minor residential project,2939,772524,20.48,12.67,30400
+2018,New Brunswick,Trade and services,56,772524,20.48,12.67,30400
+2018,New Brunswick,Transportation terminal,1,772524,20.48,12.67,30400
+2018,New Brunswick,"Transportation, utilities",6,772524,20.48,12.67,30400
+2018,New Brunswick,University,5,772524,20.48,12.67,30400
+2018,New Brunswick,Utility building,5,772524,20.48,12.67,30400
+2018,New Brunswick,Warehouses,12,772524,20.48,12.67,30400
+2018,New Brunswick,"Welfare, home",2,772524,20.48,12.67,30400
+2018,Newfoundland and Labrador,Agriculture,1,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Apartment,71,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Apartment condominium,9,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Apartment total,80,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Churches, religion",2,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Clinic - health unit, out-patient clinic, first aid station",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Communication building,0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Convention center, exhibition building",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Double total,44,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Elementary school, kindergarten",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Factories, plants",3,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Government buildings,4,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",2,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Hospital general - military, specialized",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Hotel, hotel and motel, motor hotel",3,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Hotels, restaurants",11,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",3,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Laboratories,0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Maintenance building,0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Major multiple dwelling projects,175,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Medical, hospital",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Mining and agriculture,1,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Mining building,0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Minor multiple dwelling projects,218,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Motel, cabin for tourism",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Multiple dwelling building total,504,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",9,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Office buildings,9,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Office complex, office and store, office and apartment",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",3,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Other government building - police station, prison, fire station, military building",2,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Plant for manufacturing, processing and assembling goods",3,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Post-secondary institution - technical institute, trade school",1,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Recreation,3,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Restaurant, bar, tavern, night club, diner, donut shop",5,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Retail and wholesale outlets,17,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Retail complex - plaza, mall, shopping center, store and office building",5,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Row condominium,0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Schools, education",2,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Secondary school, high school, junior high school",1,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Service stations,4,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Special building use - funeral director, crematorium, mausoleum",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total demolitions,62,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total major institutional and governmental projects,15,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total major non-residential projects,76,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total major permits residential and non-residential,1026,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total major residential project,950,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total minor commercial projects,542,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total minor industrial projects,48,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total minor institutional and governmental projects,22,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total minor non-residential projects,612,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total minor residential and non-residential,4098,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Total minor residential project,3486,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Trade and services,22,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Transportation terminal,1,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Transportation, utilities",5,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,University,0,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Utility building,4,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,Warehouses,3,525765,20.82,18.62,30400
+2018,Newfoundland and Labrador,"Welfare, home",7,525765,20.82,18.62,30400
+2018,Nova Scotia,Agriculture,16,963309,19.99,12.46,36700
+2018,Nova Scotia,Apartment,986,963309,19.99,12.46,36700
+2018,Nova Scotia,Apartment condominium,0,963309,19.99,12.46,36700
+2018,Nova Scotia,Apartment total,986,963309,19.99,12.46,36700
+2018,Nova Scotia,"Churches, religion",1,963309,19.99,12.46,36700
+2018,Nova Scotia,"Clinic - health unit, out-patient clinic, first aid station",0,963309,19.99,12.46,36700
+2018,Nova Scotia,Communication building,0,963309,19.99,12.46,36700
+2018,Nova Scotia,"Convention center, exhibition building",0,963309,19.99,12.46,36700
+2018,Nova Scotia,Double total,212,963309,19.99,12.46,36700
+2018,Nova Scotia,"Elementary school, kindergarten",2,963309,19.99,12.46,36700
+2018,Nova Scotia,"Factories, plants",10,963309,19.99,12.46,36700
+2018,Nova Scotia,Government buildings,2,963309,19.99,12.46,36700
+2018,Nova Scotia,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",1,963309,19.99,12.46,36700
+2018,Nova Scotia,"Hospital general - military, specialized",0,963309,19.99,12.46,36700
+2018,Nova Scotia,"Hotel, hotel and motel, motor hotel",2,963309,19.99,12.46,36700
+2018,Nova Scotia,"Hotels, restaurants",10,963309,19.99,12.46,36700
+2018,Nova Scotia,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",4,963309,19.99,12.46,36700
+2018,Nova Scotia,Laboratories,2,963309,19.99,12.46,36700
+2018,Nova Scotia,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",0,963309,19.99,12.46,36700
+2018,Nova Scotia,Maintenance building,2,963309,19.99,12.46,36700
+2018,Nova Scotia,Major multiple dwelling projects,1280,963309,19.99,12.46,36700
+2018,Nova Scotia,"Medical, hospital",0,963309,19.99,12.46,36700
+2018,Nova Scotia,Mining and agriculture,16,963309,19.99,12.46,36700
+2018,Nova Scotia,Mining building,0,963309,19.99,12.46,36700
+2018,Nova Scotia,Minor multiple dwelling projects,129,963309,19.99,12.46,36700
+2018,Nova Scotia,"Motel, cabin for tourism",1,963309,19.99,12.46,36700
+2018,Nova Scotia,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",1,963309,19.99,12.46,36700
+2018,Nova Scotia,Multiple dwelling building total,2414,963309,19.99,12.46,36700
+2018,Nova Scotia,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",23,963309,19.99,12.46,36700
+2018,Nova Scotia,Office buildings,23,963309,19.99,12.46,36700
+2018,Nova Scotia,"Office complex, office and store, office and apartment",0,963309,19.99,12.46,36700
+2018,Nova Scotia,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",2,963309,19.99,12.46,36700
+2018,Nova Scotia,"Other government building - police station, prison, fire station, military building",1,963309,19.99,12.46,36700
+2018,Nova Scotia,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",2,963309,19.99,12.46,36700
+2018,Nova Scotia,"Plant for manufacturing, processing and assembling goods",8,963309,19.99,12.46,36700
+2018,Nova Scotia,"Post-secondary institution - technical institute, trade school",2,963309,19.99,12.46,36700
+2018,Nova Scotia,Recreation,7,963309,19.99,12.46,36700
+2018,Nova Scotia,"Restaurant, bar, tavern, night club, diner, donut shop",5,963309,19.99,12.46,36700
+2018,Nova Scotia,Retail and wholesale outlets,41,963309,19.99,12.46,36700
+2018,Nova Scotia,"Retail complex - plaza, mall, shopping center, store and office building",4,963309,19.99,12.46,36700
+2018,Nova Scotia,Row condominium,0,963309,19.99,12.46,36700
+2018,Nova Scotia,"Schools, education",7,963309,19.99,12.46,36700
+2018,Nova Scotia,"Secondary school, high school, junior high school",0,963309,19.99,12.46,36700
+2018,Nova Scotia,Service stations,5,963309,19.99,12.46,36700
+2018,Nova Scotia,"Special building use - funeral director, crematorium, mausoleum",0,963309,19.99,12.46,36700
+2018,Nova Scotia,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",1,963309,19.99,12.46,36700
+2018,Nova Scotia,Total demolitions,157,963309,19.99,12.46,36700
+2018,Nova Scotia,Total major institutional and governmental projects,10,963309,19.99,12.46,36700
+2018,Nova Scotia,Total major non-residential projects,137,963309,19.99,12.46,36700
+2018,Nova Scotia,Total major permits residential and non-residential,3548,963309,19.99,12.46,36700
+2018,Nova Scotia,Total major residential project,3411,963309,19.99,12.46,36700
+2018,Nova Scotia,Total minor commercial projects,531,963309,19.99,12.46,36700
+2018,Nova Scotia,Total minor industrial projects,93,963309,19.99,12.46,36700
+2018,Nova Scotia,Total minor institutional and governmental projects,53,963309,19.99,12.46,36700
+2018,Nova Scotia,Total minor non-residential projects,677,963309,19.99,12.46,36700
+2018,Nova Scotia,Total minor residential and non-residential,2790,963309,19.99,12.46,36700
+2018,Nova Scotia,Total minor residential project,2113,963309,19.99,12.46,36700
+2018,Nova Scotia,Trade and services,46,963309,19.99,12.46,36700
+2018,Nova Scotia,Transportation terminal,2,963309,19.99,12.46,36700
+2018,Nova Scotia,"Transportation, utilities",3,963309,19.99,12.46,36700
+2018,Nova Scotia,University,3,963309,19.99,12.46,36700
+2018,Nova Scotia,Utility building,1,963309,19.99,12.46,36700
+2018,Nova Scotia,Warehouses,5,963309,19.99,12.46,36700
+2018,Nova Scotia,"Welfare, home",0,963309,19.99,12.46,36700
+2018,Ontario,Agriculture,411,14393683,16.49,14.18,730300
+2018,Ontario,Apartment,13435,14393683,16.49,14.18,730300
+2018,Ontario,Apartment condominium,9983,14393683,16.49,14.18,730300
+2018,Ontario,Apartment total,23418,14393683,16.49,14.18,730300
+2018,Ontario,"Churches, religion",46,14393683,16.49,14.18,730300
+2018,Ontario,"Clinic - health unit, out-patient clinic, first aid station",10,14393683,16.49,14.18,730300
+2018,Ontario,Communication building,10,14393683,16.49,14.18,730300
+2018,Ontario,"Convention center, exhibition building",10,14393683,16.49,14.18,730300
+2018,Ontario,Double total,2173,14393683,16.49,14.18,730300
+2018,Ontario,"Elementary school, kindergarten",181,14393683,16.49,14.18,730300
+2018,Ontario,"Factories, plants",231,14393683,16.49,14.18,730300
+2018,Ontario,Government buildings,43,14393683,16.49,14.18,730300
+2018,Ontario,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",17,14393683,16.49,14.18,730300
+2018,Ontario,"Hospital general - military, specialized",93,14393683,16.49,14.18,730300
+2018,Ontario,"Hotel, hotel and motel, motor hotel",41,14393683,16.49,14.18,730300
+2018,Ontario,"Hotels, restaurants",263,14393683,16.49,14.18,730300
+2018,Ontario,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",87,14393683,16.49,14.18,730300
+2018,Ontario,Laboratories,5,14393683,16.49,14.18,730300
+2018,Ontario,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",22,14393683,16.49,14.18,730300
+2018,Ontario,Maintenance building,36,14393683,16.49,14.18,730300
+2018,Ontario,Major multiple dwelling projects,36393,14393683,16.49,14.18,730300
+2018,Ontario,"Medical, hospital",103,14393683,16.49,14.18,730300
+2018,Ontario,Mining and agriculture,424,14393683,16.49,14.18,730300
+2018,Ontario,Mining building,13,14393683,16.49,14.18,730300
+2018,Ontario,Minor multiple dwelling projects,1985,14393683,16.49,14.18,730300
+2018,Ontario,"Motel, cabin for tourism",1,14393683,16.49,14.18,730300
+2018,Ontario,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",29,14393683,16.49,14.18,730300
+2018,Ontario,Multiple dwelling building total,67085,14393683,16.49,14.18,730300
+2018,Ontario,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",799,14393683,16.49,14.18,730300
+2018,Ontario,Office buildings,808,14393683,16.49,14.18,730300
+2018,Ontario,"Office complex, office and store, office and apartment",9,14393683,16.49,14.18,730300
+2018,Ontario,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",29,14393683,16.49,14.18,730300
+2018,Ontario,"Other government building - police station, prison, fire station, military building",26,14393683,16.49,14.18,730300
+2018,Ontario,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",30,14393683,16.49,14.18,730300
+2018,Ontario,"Plant for manufacturing, processing and assembling goods",195,14393683,16.49,14.18,730300
+2018,Ontario,"Post-secondary institution - technical institute, trade school",44,14393683,16.49,14.18,730300
+2018,Ontario,Recreation,135,14393683,16.49,14.18,730300
+2018,Ontario,"Restaurant, bar, tavern, night club, diner, donut shop",182,14393683,16.49,14.18,730300
+2018,Ontario,Retail and wholesale outlets,372,14393683,16.49,14.18,730300
+2018,Ontario,"Retail complex - plaza, mall, shopping center, store and office building",182,14393683,16.49,14.18,730300
+2018,Ontario,Row condominium,1810,14393683,16.49,14.18,730300
+2018,Ontario,"Schools, education",406,14393683,16.49,14.18,730300
+2018,Ontario,"Secondary school, high school, junior high school",100,14393683,16.49,14.18,730300
+2018,Ontario,Service stations,52,14393683,16.49,14.18,730300
+2018,Ontario,"Special building use - funeral director, crematorium, mausoleum",10,14393683,16.49,14.18,730300
+2018,Ontario,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",18,14393683,16.49,14.18,730300
+2018,Ontario,Total demolitions,2635,14393683,16.49,14.18,730300
+2018,Ontario,Total major institutional and governmental projects,653,14393683,16.49,14.18,730300
+2018,Ontario,Total major non-residential projects,3527,14393683,16.49,14.18,730300
+2018,Ontario,Total major permits residential and non-residential,69928,14393683,16.49,14.18,730300
+2018,Ontario,Total major residential project,66401,14393683,16.49,14.18,730300
+2018,Ontario,Total minor commercial projects,7405,14393683,16.49,14.18,730300
+2018,Ontario,Total minor industrial projects,3130,14393683,16.49,14.18,730300
+2018,Ontario,Total minor institutional and governmental projects,1442,14393683,16.49,14.18,730300
+2018,Ontario,Total minor non-residential projects,11977,14393683,16.49,14.18,730300
+2018,Ontario,Total minor residential and non-residential,35586,14393683,16.49,14.18,730300
+2018,Ontario,Total minor residential project,23609,14393683,16.49,14.18,730300
+2018,Ontario,Trade and services,593,14393683,16.49,14.18,730300
+2018,Ontario,Transportation terminal,69,14393683,16.49,14.18,730300
+2018,Ontario,"Transportation, utilities",130,14393683,16.49,14.18,730300
+2018,Ontario,University,59,14393683,16.49,14.18,730300
+2018,Ontario,Utility building,51,14393683,16.49,14.18,730300
+2018,Ontario,Warehouses,233,14393683,16.49,14.18,730300
+2018,Ontario,"Welfare, home",55,14393683,16.49,14.18,730300
+2018,Prince Edward Island,Agriculture,5,155129,18.96,13.13,5800
+2018,Prince Edward Island,Apartment,167,155129,18.96,13.13,5800
+2018,Prince Edward Island,Apartment condominium,0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Apartment total,167,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Churches, religion",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Clinic - health unit, out-patient clinic, first aid station",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Communication building,0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Convention center, exhibition building",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Double total,57,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Elementary school, kindergarten",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Factories, plants",5,155129,18.96,13.13,5800
+2018,Prince Edward Island,Government buildings,0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Hospital general - military, specialized",1,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Hotel, hotel and motel, motor hotel",2,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Hotels, restaurants",6,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",1,155129,18.96,13.13,5800
+2018,Prince Edward Island,Laboratories,0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Maintenance building,0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Major multiple dwelling projects,266,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Medical, hospital",1,155129,18.96,13.13,5800
+2018,Prince Edward Island,Mining and agriculture,5,155129,18.96,13.13,5800
+2018,Prince Edward Island,Mining building,0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Minor multiple dwelling projects,6,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Motel, cabin for tourism",1,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Multiple dwelling building total,487,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",2,155129,18.96,13.13,5800
+2018,Prince Edward Island,Office buildings,2,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Office complex, office and store, office and apartment",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",1,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Other government building - police station, prison, fire station, military building",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Plant for manufacturing, processing and assembling goods",5,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Post-secondary institution - technical institute, trade school",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Recreation,1,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Restaurant, bar, tavern, night club, diner, donut shop",2,155129,18.96,13.13,5800
+2018,Prince Edward Island,Retail and wholesale outlets,11,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Retail complex - plaza, mall, shopping center, store and office building",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Row condominium,0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Schools, education",1,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Secondary school, high school, junior high school",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Service stations,0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Special building use - funeral director, crematorium, mausoleum",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",0,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total demolitions,20,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total major institutional and governmental projects,2,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total major non-residential projects,39,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total major permits residential and non-residential,876,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total major residential project,837,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total minor commercial projects,63,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total minor industrial projects,35,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total minor institutional and governmental projects,9,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total minor non-residential projects,107,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total minor residential and non-residential,382,155129,18.96,13.13,5800
+2018,Prince Edward Island,Total minor residential project,275,155129,18.96,13.13,5800
+2018,Prince Edward Island,Trade and services,11,155129,18.96,13.13,5800
+2018,Prince Edward Island,Transportation terminal,0,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Transportation, utilities",1,155129,18.96,13.13,5800
+2018,Prince Edward Island,University,1,155129,18.96,13.13,5800
+2018,Prince Edward Island,Utility building,1,155129,18.96,13.13,5800
+2018,Prince Edward Island,Warehouses,6,155129,18.96,13.13,5800
+2018,Prince Edward Island,"Welfare, home",0,155129,18.96,13.13,5800
+2018,Quebec,Agriculture,218,8433888,18.82,11.2,367100
+2018,Quebec,Apartment,18159,8433888,18.82,11.2,367100
+2018,Quebec,Apartment condominium,4726,8433888,18.82,11.2,367100
+2018,Quebec,Apartment total,22885,8433888,18.82,11.2,367100
+2018,Quebec,"Churches, religion",10,8433888,18.82,11.2,367100
+2018,Quebec,"Clinic - health unit, out-patient clinic, first aid station",20,8433888,18.82,11.2,367100
+2018,Quebec,Communication building,4,8433888,18.82,11.2,367100
+2018,Quebec,"Convention center, exhibition building",6,8433888,18.82,11.2,367100
+2018,Quebec,Double total,2694,8433888,18.82,11.2,367100
+2018,Quebec,"Elementary school, kindergarten",162,8433888,18.82,11.2,367100
+2018,Quebec,"Factories, plants",129,8433888,18.82,11.2,367100
+2018,Quebec,Government buildings,46,8433888,18.82,11.2,367100
+2018,Quebec,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",31,8433888,18.82,11.2,367100
+2018,Quebec,"Hospital general - military, specialized",39,8433888,18.82,11.2,367100
+2018,Quebec,"Hotel, hotel and motel, motor hotel",18,8433888,18.82,11.2,367100
+2018,Quebec,"Hotels, restaurants",117,8433888,18.82,11.2,367100
+2018,Quebec,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",52,8433888,18.82,11.2,367100
+2018,Quebec,Laboratories,10,8433888,18.82,11.2,367100
+2018,Quebec,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",5,8433888,18.82,11.2,367100
+2018,Quebec,Maintenance building,13,8433888,18.82,11.2,367100
+2018,Quebec,Major multiple dwelling projects,27273,8433888,18.82,11.2,367100
+2018,Quebec,"Medical, hospital",59,8433888,18.82,11.2,367100
+2018,Quebec,Mining and agriculture,223,8433888,18.82,11.2,367100
+2018,Quebec,Mining building,5,8433888,18.82,11.2,367100
+2018,Quebec,Minor multiple dwelling projects,7359,8433888,18.82,11.2,367100
+2018,Quebec,"Motel, cabin for tourism",1,8433888,18.82,11.2,367100
+2018,Quebec,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",15,8433888,18.82,11.2,367100
+2018,Quebec,Multiple dwelling building total,57928,8433888,18.82,11.2,367100
+2018,Quebec,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",290,8433888,18.82,11.2,367100
+2018,Quebec,Office buildings,300,8433888,18.82,11.2,367100
+2018,Quebec,"Office complex, office and store, office and apartment",10,8433888,18.82,11.2,367100
+2018,Quebec,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",25,8433888,18.82,11.2,367100
+2018,Quebec,"Other government building - police station, prison, fire station, military building",15,8433888,18.82,11.2,367100
+2018,Quebec,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",19,8433888,18.82,11.2,367100
+2018,Quebec,"Plant for manufacturing, processing and assembling goods",116,8433888,18.82,11.2,367100
+2018,Quebec,"Post-secondary institution - technical institute, trade school",68,8433888,18.82,11.2,367100
+2018,Quebec,Recreation,81,8433888,18.82,11.2,367100
+2018,Quebec,"Restaurant, bar, tavern, night club, diner, donut shop",67,8433888,18.82,11.2,367100
+2018,Quebec,Retail and wholesale outlets,177,8433888,18.82,11.2,367100
+2018,Quebec,"Retail complex - plaza, mall, shopping center, store and office building",171,8433888,18.82,11.2,367100
+2018,Quebec,Row condominium,181,8433888,18.82,11.2,367100
+2018,Quebec,"Schools, education",340,8433888,18.82,11.2,367100
+2018,Quebec,"Secondary school, high school, junior high school",69,8433888,18.82,11.2,367100
+2018,Quebec,Service stations,34,8433888,18.82,11.2,367100
+2018,Quebec,"Special building use - funeral director, crematorium, mausoleum",10,8433888,18.82,11.2,367100
+2018,Quebec,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",10,8433888,18.82,11.2,367100
+2018,Quebec,Total demolitions,1362,8433888,18.82,11.2,367100
+2018,Quebec,Total major institutional and governmental projects,492,8433888,18.82,11.2,367100
+2018,Quebec,Total major non-residential projects,1880,8433888,18.82,11.2,367100
+2018,Quebec,Total major permits residential and non-residential,43724,8433888,18.82,11.2,367100
+2018,Quebec,Total major residential project,41844,8433888,18.82,11.2,367100
+2018,Quebec,Total minor commercial projects,4164,8433888,18.82,11.2,367100
+2018,Quebec,Total minor industrial projects,1656,8433888,18.82,11.2,367100
+2018,Quebec,Total minor institutional and governmental projects,742,8433888,18.82,11.2,367100
+2018,Quebec,Total minor non-residential projects,6562,8433888,18.82,11.2,367100
+2018,Quebec,Total minor residential and non-residential,66988,8433888,18.82,11.2,367100
+2018,Quebec,Total minor residential project,60426,8433888,18.82,11.2,367100
+2018,Quebec,Trade and services,373,8433888,18.82,11.2,367100
+2018,Quebec,Transportation terminal,9,8433888,18.82,11.2,367100
+2018,Quebec,"Transportation, utilities",50,8433888,18.82,11.2,367100
+2018,Quebec,University,36,8433888,18.82,11.2,367100
+2018,Quebec,Utility building,37,8433888,18.82,11.2,367100
+2018,Quebec,Warehouses,71,8433888,18.82,11.2,367100
+2018,Quebec,"Welfare, home",37,8433888,18.82,11.2,367100
+2018,Saskatchewan,Agriculture,19,1165938,15.22,15.66,82200
+2018,Saskatchewan,Apartment,854,1165938,15.22,15.66,82200
+2018,Saskatchewan,Apartment condominium,17,1165938,15.22,15.66,82200
+2018,Saskatchewan,Apartment total,871,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Churches, religion",7,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Clinic - health unit, out-patient clinic, first aid station",0,1165938,15.22,15.66,82200
+2018,Saskatchewan,Communication building,0,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Convention center, exhibition building",1,1165938,15.22,15.66,82200
+2018,Saskatchewan,Double total,84,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Elementary school, kindergarten",2,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Factories, plants",17,1165938,15.22,15.66,82200
+2018,Saskatchewan,Government buildings,1,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",0,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Hospital general - military, specialized",4,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Hotel, hotel and motel, motor hotel",5,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Hotels, restaurants",25,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",15,1165938,15.22,15.66,82200
+2018,Saskatchewan,Laboratories,0,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",2,1165938,15.22,15.66,82200
+2018,Saskatchewan,Maintenance building,8,1165938,15.22,15.66,82200
+2018,Saskatchewan,Major multiple dwelling projects,1231,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Medical, hospital",4,1165938,15.22,15.66,82200
+2018,Saskatchewan,Mining and agriculture,19,1165938,15.22,15.66,82200
+2018,Saskatchewan,Mining building,0,1165938,15.22,15.66,82200
+2018,Saskatchewan,Minor multiple dwelling projects,275,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Motel, cabin for tourism",0,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",8,1165938,15.22,15.66,82200
+2018,Saskatchewan,Multiple dwelling building total,2498,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",43,1165938,15.22,15.66,82200
+2018,Saskatchewan,Office buildings,43,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Office complex, office and store, office and apartment",0,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",1,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Other government building - police station, prison, fire station, military building",1,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",2,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Plant for manufacturing, processing and assembling goods",9,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Post-secondary institution - technical institute, trade school",2,1165938,15.22,15.66,82200
+2018,Saskatchewan,Recreation,19,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Restaurant, bar, tavern, night club, diner, donut shop",18,1165938,15.22,15.66,82200
+2018,Saskatchewan,Retail and wholesale outlets,24,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Retail complex - plaza, mall, shopping center, store and office building",27,1165938,15.22,15.66,82200
+2018,Saskatchewan,Row condominium,17,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Schools, education",13,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Secondary school, high school, junior high school",4,1165938,15.22,15.66,82200
+2018,Saskatchewan,Service stations,6,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Special building use - funeral director, crematorium, mausoleum",0,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",2,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total demolitions,132,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total major institutional and governmental projects,35,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total major non-residential projects,262,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total major permits residential and non-residential,3186,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total major residential project,2924,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total minor commercial projects,337,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total minor industrial projects,133,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total minor institutional and governmental projects,82,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total minor non-residential projects,552,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total minor residential and non-residential,2987,1165938,15.22,15.66,82200
+2018,Saskatchewan,Total minor residential project,2435,1165938,15.22,15.66,82200
+2018,Saskatchewan,Trade and services,59,1165938,15.22,15.66,82200
+2018,Saskatchewan,Transportation terminal,0,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Transportation, utilities",6,1165938,15.22,15.66,82200
+2018,Saskatchewan,University,3,1165938,15.22,15.66,82200
+2018,Saskatchewan,Utility building,6,1165938,15.22,15.66,82200
+2018,Saskatchewan,Warehouses,33,1165938,15.22,15.66,82200
+2018,Saskatchewan,"Welfare, home",10,1165938,15.22,15.66,82200
+2021,Alberta,Agriculture,17604.33,40975100,14.08,30.72,346871
+2021,Alberta,Apartment,22331.39,40975100,14.08,30.72,346871
+2021,Alberta,Apartment condominium,20806.09,40975100,14.08,30.72,346871
+2021,Alberta,Apartment total,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Churches, religion",21088.32,40975100,14.08,30.72,346871
+2021,Alberta,"Clinic - health unit, out-patient clinic, first aid station",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Communication building,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Convention center, exhibition building",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Double total,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Elementary school, kindergarten",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Factories, plants",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Government buildings,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Hospital general - military, specialized",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Hotel, hotel and motel, motor hotel",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Hotels, restaurants",21302.12,40975100,14.08,30.72,346871
+2021,Alberta,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Laboratories,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Maintenance building,16680.05,40975100,14.08,30.72,346871
+2021,Alberta,Major multiple dwelling projects,21657.55,40975100,14.08,30.72,346871
+2021,Alberta,"Medical, hospital",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Mining and agriculture,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Mining building,21278.81,40975100,14.08,30.72,346871
+2021,Alberta,Minor multiple dwelling projects,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Motel, cabin for tourism",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",20953.24,40975100,14.08,30.72,346871
+2021,Alberta,Multiple dwelling building total,20788.56,40975100,14.08,30.72,346871
+2021,Alberta,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Office buildings,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Office complex, office and store, office and apartment",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",22756.21,40975100,14.08,30.72,346871
+2021,Alberta,"Other government building - police station, prison, fire station, military building",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Plant for manufacturing, processing and assembling goods",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Post-secondary institution - technical institute, trade school",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Recreation,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Restaurant, bar, tavern, night club, diner, donut shop",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Retail and wholesale outlets,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Retail complex - plaza, mall, shopping center, store and office building",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Row condominium,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Schools, education",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Secondary school, high school, junior high school",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Service stations,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Special building use - funeral director, crematorium, mausoleum",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Trade and services,21329.57,40975100,14.08,30.72,346871
+2021,Alberta,Transportation terminal,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,"Transportation, utilities",24418.35,40975100,14.08,30.72,346871
+2021,Alberta,University,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Utility building,21554.47,40975100,14.08,30.72,346871
+2021,Alberta,Warehouses,20889.99,40975100,14.08,30.72,346871
+2021,Alberta,"Welfare, home",21554.47,40975100,14.08,30.72,346871
+2021,British Columbia,Agriculture,17604,46511000,19.77,26.04,264183
+2021,British Columbia,Apartment,22331,46511000,19.77,26.04,264183
+2021,British Columbia,Apartment condominium,20806,46511000,19.77,26.04,264183
+2021,British Columbia,Apartment total,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Churches, religion",21088,46511000,19.77,26.04,264183
+2021,British Columbia,"Clinic - health unit, out-patient clinic, first aid station",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Communication building,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Convention center, exhibition building",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Double total,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Elementary school, kindergarten",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Factories, plants",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Government buildings,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Hospital general - military, specialized",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Hotel, hotel and motel, motor hotel",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Hotels, restaurants",21302,46511000,19.77,26.04,264183
+2021,British Columbia,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Laboratories,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Maintenance building,16680,46511000,19.77,26.04,264183
+2021,British Columbia,Major multiple dwelling projects,21658,46511000,19.77,26.04,264183
+2021,British Columbia,"Medical, hospital",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Mining and agriculture,21554,46511000,19.77,26.04,264183
+2021,British Columbia,Mining building,21279,46511000,19.77,26.04,264183
+2021,British Columbia,Minor multiple dwelling projects,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Motel, cabin for tourism",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",20953,46511000,19.77,26.04,264183
+2021,British Columbia,Multiple dwelling building total,20789,46511000,19.77,26.04,264183
+2021,British Columbia,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Office buildings,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Office complex, office and store, office and apartment",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",22756,46511000,19.77,26.04,264183
+2021,British Columbia,"Other government building - police station, prison, fire station, military building",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Plant for manufacturing, processing and assembling goods",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Post-secondary institution - technical institute, trade school",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Recreation,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Restaurant, bar, tavern, night club, diner, donut shop",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Retail and wholesale outlets,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Retail complex - plaza, mall, shopping center, store and office building",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Row condominium,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Schools, education",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Secondary school, high school, junior high school",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Service stations,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Special building use - funeral director, crematorium, mausoleum",21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",21554,46511000,19.77,26.04,264183
+2021,British Columbia,Trade and services,21330,46511000,19.77,26.04,264183
+2021,British Columbia,Transportation terminal,21554,46511000,19.77,26.04,264183
+2021,British Columbia,"Transportation, utilities",24418,46511000,19.77,26.04,264183
+2021,British Columbia,University,21554,46511000,19.77,26.04,264183
+2021,British Columbia,Utility building,21554,46511000,19.77,26.04,264183
+2021,British Columbia,Warehouses,20890,46511000,19.77,26.04,264183
+2021,British Columbia,"Welfare, home",21554,46511000,19.77,26.04,264183
+2021,Ontario,Agriculture,16981,133759900,18.15,28.28,776451
+2021,Ontario,Apartment,21114,133759900,18.15,28.28,776451
+2021,Ontario,Apartment condominium,20014,133759900,18.15,28.28,776451
+2021,Ontario,Apartment total,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Churches, religion",19844,133759900,18.15,28.28,776451
+2021,Ontario,"Clinic - health unit, out-patient clinic, first aid station",20264,133759900,18.15,28.28,776451
+2021,Ontario,Communication building,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Convention center, exhibition building",20264,133759900,18.15,28.28,776451
+2021,Ontario,Double total,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Elementary school, kindergarten",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Factories, plants",20264,133759900,18.15,28.28,776451
+2021,Ontario,Government buildings,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Government legislative and administration building other than office building - city hall, court of justice, embassy, parliament and senate building",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Hospital general - military, specialized",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Hotel, hotel and motel, motor hotel",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Hotels, restaurants",20015,133759900,18.15,28.28,776451
+2021,Ontario,"Indoor recreational building - sports complex, tennis court and squash, community center, arena, curling club, swimming pool",20264,133759900,18.15,28.28,776451
+2021,Ontario,Laboratories,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Library, museum, art gallery, aquarium, botanical garden, archive building, scientific center",20264,133759900,18.15,28.28,776451
+2021,Ontario,Maintenance building,15385,133759900,18.15,28.28,776451
+2021,Ontario,Major multiple dwelling projects,20370,133759900,18.15,28.28,776451
+2021,Ontario,"Medical, hospital",20264,133759900,18.15,28.28,776451
+2021,Ontario,Mining and agriculture,20264,133759900,18.15,28.28,776451
+2021,Ontario,Mining building,20039,133759900,18.15,28.28,776451
+2021,Ontario,Minor multiple dwelling projects,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Motel, cabin for tourism",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Motor vehicle show room (new and used) - car dealership, used car, motorcycle and tractor sale",19867,133759900,18.15,28.28,776451
+2021,Ontario,Multiple dwelling building total,19281,133759900,18.15,28.28,776451
+2021,Ontario,"Office building - consultant's office, doctor's office, insurance company, bank, taxi stand, office with cafeteria, office with smoke shop",20264,133759900,18.15,28.28,776451
+2021,Ontario,Office buildings,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Office complex, office and store, office and apartment",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Other accommodation - student's residence, boarding house, religious residence, hostel, dormitory",21080,133759900,18.15,28.28,776451
+2021,Ontario,"Other government building - police station, prison, fire station, military building",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Outdoor recreational building - country club, golf club campground facilities, outdoor skating rink, outdoor swimming pool",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Plant for manufacturing, processing and assembling goods",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Post-secondary institution - technical institute, trade school",20264,133759900,18.15,28.28,776451
+2021,Ontario,Recreation,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Restaurant, bar, tavern, night club, diner, donut shop",20264,133759900,18.15,28.28,776451
+2021,Ontario,Retail and wholesale outlets,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Retail complex - plaza, mall, shopping center, store and office building",20264,133759900,18.15,28.28,776451
+2021,Ontario,Row condominium,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Schools, education",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Secondary school, high school, junior high school",20264,133759900,18.15,28.28,776451
+2021,Ontario,Service stations,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Special building use - funeral director, crematorium, mausoleum",20264,133759900,18.15,28.28,776451
+2021,Ontario,"Theatre and performing art center - movie theatre, concert hall, opera house, cultural center",20264,133759900,18.15,28.28,776451
+2021,Ontario,Trade and services,20059,133759900,18.15,28.28,776451
+2021,Ontario,Transportation terminal,20264,133759900,18.15,28.28,776451
+2021,Ontario,"Transportation, utilities",23420,133759900,18.15,28.28,776451
+2021,Ontario,University,20264,133759900,18.15,28.28,776451
+2021,Ontario,Utility building,20264,133759900,18.15,28.28,776451
+2021,Ontario,Warehouses,19611,133759900,18.15,28.28,776451
+2021,Ontario,"Welfare, home",20264,133759900,18.15,28.28,776451
